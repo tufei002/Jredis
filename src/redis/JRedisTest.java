@@ -16,7 +16,7 @@ public class JRedisTest {
 	private ShardedJedisPool shardedJedisPool;
 
 	 /**
-     * 初始化非切片池
+     * 初始化非切片池1111111111
      */
 	private void initialPool(){
 		 // 池基本配置 

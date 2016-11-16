@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jedis-2.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool2-2.4.2.jar" sourcepath="D:/maven-3.0.5/repository/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="lib/spring-asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/netty-all-5.0.0.Alpha1.jar" sourcepath="E:/技术资料/netty&amp;mina/netty-5.0.0.Alpha1/jar/all-in-one/netty-all-5.0.0.Alpha1-sources.jar">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
